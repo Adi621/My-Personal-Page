@@ -26,7 +26,7 @@ A modern, responsive personal portfolio website showcasing my experience as an E
 ## 📂 Project Structure
 
 ```
-CVProject/
+My-Personal-Page/
 ├── My_Personal_Page.html    # Main portfolio page
 ├── adi.jpeg                  # Profile photo
 ├── Adi_Abekasis_CV.pdf      # Downloadable CV
