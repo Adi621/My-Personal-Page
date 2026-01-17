@@ -27,7 +27,7 @@ A modern, responsive personal portfolio website showcasing my experience as an E
 
 ```
 My-Personal-Page/
-├── index.html    # Main portfolio page
+├── My_Personal_Page.html    # Main portfolio page
 ├── adi.jpeg                  # Profile photo
 ├── Adi_Abekasis_CV.pdf      # Downloadable CV
 └── README.md                 # This file
@@ -43,7 +43,7 @@ My-Personal-Page/
 2. **Open in browser**
    ```bash
    # Simply open the HTML file in your browser
-   start index.html
+   start My_Personal_Page.html
    ```
 
    Or use a local server:
