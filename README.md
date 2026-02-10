@@ -101,6 +101,7 @@ Update the HTML content directly to personalize:
 
 - **LinkedIn**: [Adi Abekasis](https://www.linkedin.com/in/adi-abekasis-0bab98226)
 - **GitHub**: [Adi621](https://github.com/Adi621)
+- **My CV Site**: [Adi Abekasis](https://adi-resume-web.netlify.app/)
 - **Email**: adiabekasis2@gmail.com
 
 ## 📄 License
